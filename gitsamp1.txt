@@ -1,2 +1,3 @@
 hap sample
 hap sample2
+hap sample3
